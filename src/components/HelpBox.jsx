@@ -10,7 +10,8 @@ function HelpBox({ title, text }) {
     </article>
   );
 }
-//this is a comment
+//this is a comments
+//add another comment.
 HelpBox.propTypes = {
   title: string,
   text: string,
